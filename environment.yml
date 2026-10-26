@@ -1,0 +1,9 @@
+name: lgd
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - llvm-openmp   # OpenMP runtime that XGBoost and LightGBM need on macOS
+  - pip
+  - pip:
+      - -r requirements.txt

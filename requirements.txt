@@ -1,0 +1,16 @@
+# Versions tested on Apple M4, macOS, Python 3.12
+numpy==2.5.4
+pandas==3.0.6
+openpyxl==3.1.5
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.7.0
+torch==2.14.1
+optuna==5.0.0
+shap==0.54.1
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyterlab==4.6.4
+ipykernel==7.4.0
+ipywidgets==8.1.9
+nbconvert==7.17.2
